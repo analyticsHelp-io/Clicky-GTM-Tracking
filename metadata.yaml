@@ -1,0 +1,6 @@
+homepage: "http://analyticshelp.io/"
+documentation: "https://clicky.com/help/custom"
+versions:
+  # Latest version
+  - sha: 7834ae4b97a643be59101bf38cab596e540ff16b
+    changeNotes: Initial release.
