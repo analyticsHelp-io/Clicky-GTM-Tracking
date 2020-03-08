@@ -1,5 +1,5 @@
 homepage: "http://analyticshelp.io/"
-documentation: "https://clicky.com/help/custom"
+documentation: "https://clicky.com/help/apps-plugins#gtm"
 versions:
   # Latest version
   - sha: 98d712e22a01218a7e6f00aa9076aa550405c177
